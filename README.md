@@ -1,6 +1,7 @@
 # TicTacToe_Jay
-Small tic tac toe prototype to show case personal work.
+Small tic tac toe prototype to showcase personal work.
 
+Last opened in Unity Version 2022.3.20f1
 
 All right for the background music belong to:
 Magic by FSCM Productions | https://fscmproductions.bandcamp.com
